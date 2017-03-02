@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Conecta4</string>
+    <string name="about">Acerca de</string>
+    <string name="sendmsg">Enviar mensaje</string>
+    <string name="options">Ajustes</string>
+</resources>
